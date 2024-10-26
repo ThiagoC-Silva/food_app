@@ -24,6 +24,6 @@ class CategoriesScreen extends StatelessWidget{
             CategoryGridItem(category: category)
         ],
       ),
-    )
+    );
   }
 }
