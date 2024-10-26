@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:food_app/screens/categories.dart';
 
 final theme = ThemeData(
   useMaterial3: true,
